@@ -1,0 +1,16 @@
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\net5.0\EncapsulationExercise.exe
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\net5.0\EncapsulationExercise.deps.json
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\net5.0\EncapsulationExercise.runtimeconfig.json
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\net5.0\EncapsulationExercise.runtimeconfig.dev.json
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\net5.0\EncapsulationExercise.dll
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\net5.0\ref\EncapsulationExercise.dll
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\net5.0\EncapsulationExercise.pdb
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.AssemblyInfo.cs
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.dll
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\ref\EncapsulationExercise.dll
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.pdb
+C:\Users\David\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\net5.0\EncapsulationExercise.genruntimeconfig.cache
